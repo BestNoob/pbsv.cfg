@@ -9,7 +9,7 @@ You can edit settings as you whish, only the sky is the limit.
 
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
 
-GGC = Together Against Cheaters (Gemeinsam Gegen Cheater)
+GGC = Together Against Cheaters (Gemeinsam Gegen Cheater) https://www.ggc-stream.net/
 America's Army 4
 Battlefield 2
 Battlefield 3
@@ -26,11 +26,30 @@ Medal of Honor Warfighter
 Red Orchestra 2
 
 
-PBB = PBBans
+PBB = PBBans https://www.pbbans.com
+America's Army 4
+Battlefield 1942
+Battlefield 2
+Battlefield 2142
+Battlefield 3
+Battlefield 4
+Battlefield Bad Company 2
+Battlefield Hardline
+Call of Duty 2
+Call of Duty 4
+Call of Duty United Offensive
+Call of Duty 5 World at War
+Enemy Territory
+Medal of Honor
+Medal of Honor Warfighter
+Quake Wars
+Red Orchestra 2
+Return to Castle Wolfenstein
 
 
 
-ACI = Anti Cheat Inc.
+
+ACI = Anti Cheat Inc. http://www.anticheatinc.net
 
 America's Army Proving Grounds
 America's Army 3
