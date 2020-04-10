@@ -5,7 +5,7 @@ Most Admins dont know how or are to lazy to configure PunkBuster. But without co
 
 This Config should give you the best protection for your Server.
 
-You can edit settings as you whish, only the sky is the limit.
+You can edit settings as you wish, only the sky's the limit. But be aware that this config is universal, some settings might not work with all games, you have to test it.
 
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
 
