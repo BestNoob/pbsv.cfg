@@ -58,3 +58,6 @@ Battlefield Bad Company 2
 Battlefield 4
 Battlefield Hardline
 Medal of Honor Warfighter
+
+
+Also Procon https://myrcon.net/ can be used with the BF4DB Plugin to protect your Battlefield 4 Servers
