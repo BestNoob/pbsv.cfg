@@ -7,6 +7,8 @@ This Config should give you the best protection for your Server.
 
 You can edit settings as you wish, only the sky's the limit. But be aware that this config is universal, some settings might not work with all games, you have to test it.
 
+Here you can find some Guides https://www.pbbans.com/information-center.html
+
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
 
 GGC = Together Against Cheaters (Gemeinsam Gegen Cheater) https://www.ggc-stream.net/
