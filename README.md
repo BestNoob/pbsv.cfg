@@ -1,5 +1,7 @@
 # pbsv.cfg
 Server PunkBuster Config for Call of Duty, Battlefield etc.
+You can checkout my Serverlist on Discord: https://discord.gg/A7vtjmw
+
 
 Most Admins dont know how or are to lazy to configure PunkBuster. But without configuring, PB is only a lame dog.
 
