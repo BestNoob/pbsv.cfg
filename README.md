@@ -13,6 +13,20 @@ You can edit settings as you wish, only the sky's the limit. But be aware that t
 Here you can find some Guides https://www.pbbans.com/information-center.html
 
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
+Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers.
+
+
+Remember that you always have to register on their website to use their service for your servers.
+
+
+PBB = PBBans https://www.pbbans.com
+America's Army 4, Battlefield 1942, Battlefield 2, Battlefield 2142, Battlefield 3, Battlefield 4, Battlefield Bad Company 2, Battlefield Hardline, Call of Duty 2, Call of Duty 4,
+Call of Duty United Offensive, Call of Duty 5 World at War, Enemy Territory, Medal of Honor, Medal of Honor Warfighter, Quake Wars, Red Orchestra 2, Return to Castle Wolfenstein
+
+
+ACI = Anti Cheat Inc. http://www.anticheatinc.net
+America's Army Proving Grounds, America's Army 3, Battlefield 3, Battlefield Bad Company 2, Battlefield 4, Battlefield Hardline, Medal of Honor Warfighter
+
 
 GGC = Together Against Cheaters (Gemeinsam Gegen Cheater) https://www.ggc-stream.net/
 America's Army 4
@@ -29,40 +43,3 @@ Enemy Territory
 Medal of Honor
 Medal of Honor Warfighter
 Red Orchestra 2
-
-
-PBB = PBBans https://www.pbbans.com
-America's Army 4
-Battlefield 1942
-Battlefield 2
-Battlefield 2142
-Battlefield 3
-Battlefield 4
-Battlefield Bad Company 2
-Battlefield Hardline
-Call of Duty 2
-Call of Duty 4
-Call of Duty United Offensive
-Call of Duty 5 World at War
-Enemy Territory
-Medal of Honor
-Medal of Honor Warfighter
-Quake Wars
-Red Orchestra 2
-Return to Castle Wolfenstein
-
-
-
-
-ACI = Anti Cheat Inc. http://www.anticheatinc.net
-
-America's Army Proving Grounds
-America's Army 3
-Battlefield 3
-Battlefield Bad Company 2
-Battlefield 4
-Battlefield Hardline
-Medal of Honor Warfighter
-
-
-Also Procon https://myrcon.net/ can be used with the BF4DB Plugin to protect your Battlefield 4 Servers
