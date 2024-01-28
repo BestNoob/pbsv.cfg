@@ -45,13 +45,13 @@ Medal of Honor Warfighter
 Red Orchestra 2~~
 
 > [!NOTE]
-> ### For some reasons its needed that u write following in gameserver console: ###
+> ### If PB doesnt take over your config, for some reasons its needed that u write following in gameserver console: ###
 
-- pb_sv_writecfg pbucon.use
 - pb_sv_writecfg
+- pb_sv_writecfg pbucon.use
 - pb_sv_restart (wait 30 seconds until pb has been restarted)
 
-now your server should be correctly listed for the PB streaming. After this you can re-add the lines of my server.cfg to the server.cfg and pbucon.use
+now your server should be correctly listed for the PB streaming, and the settings hould apply. After this you can re-add the lines of my server.cfg to the server.cfg and pbucon.use
 (strg+a, strg+c, strg+v - copy and paste)
 
 > [!NOTE]
