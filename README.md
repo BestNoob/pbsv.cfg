@@ -1,5 +1,4 @@
-# pbsv.cfg
-Server PunkBuster Config for Call of Duty, Battlefield etc.
+# Server PunkBuster Config for Call of Duty, Battlefield etc. #
 
 You can checkout my Serverlist on Discord: https://discord.gg/A7vtjmw
 
@@ -16,7 +15,8 @@ Following games using PB and can be protected with actual Cheat detection signat
 Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers.
 
 
-Remember that you always have to register on their website to use their service for your servers.
+> [!IMPORTANT]
+> Remember that you always have to register on their website to use their service for your servers.
 
 
 PBB = PBBans https://www.pbbans.com
@@ -28,7 +28,7 @@ ACI = Anti Cheat Inc. http://www.anticheatinc.net
 America's Army Proving Grounds, America's Army 3, Battlefield 3, Battlefield Bad Company 2, Battlefield 4, Battlefield Hardline, Medal of Honor Warfighter
 
 
-GGC = Together Against Cheaters (Gemeinsam Gegen Cheater) https://www.ggc-stream.net/
+~~GGC = Together Against Cheaters (Gemeinsam Gegen Cheater) https://www.ggc-stream.net/
 America's Army 4
 Battlefield 2
 Battlefield 3
@@ -42,4 +42,37 @@ Call of Duty 5 World at War
 Enemy Territory
 Medal of Honor
 Medal of Honor Warfighter
-Red Orchestra 2
+Red Orchestra 2~~
+
+> [!NOTE]
+> ### For some reasons its needed that u write following in gameserver console: ###
+
+- pb_sv_writecfg pbucon.use
+- pb_sv_writecfg
+- pb_sv_restart (wait 30 seconds until pb has been restarted)
+
+now your server should be correctly listed for the PB streaming. After this you can re-add the lines of my server.cfg to the server.cfg and pbucon.use
+(strg+a, strg+c, strg+v - copy and paste)
+
+> [!NOTE]
+> ### Special info for LINUX Servers: ###
+On Linux servers you have to do the same steps but **additionally copy your PunkBuster folder to "/cod4server/.callofduty4/pb/"**
+If you dont set basepath and homepath it is creating a hidden folder (instead of the Windows AppData) but this folder is missing the needed pb files.
+
+- pb_sv_writecfg
+- pb_sv_writecfg pbucon.use
+- pb_sv_restart (wait 30 seconds until pb has been restarted)
+
+You can also add those lines via gameserverconsole to your existing server.cfg if you dont want to use mine:
+
+- pb_sv_usessionlimit 10
+- pb_sv_uconadd 1 66.55.152.232 pbbhub3-1 pbbanshub
+- pb_sv_uconadd 1 66.55.152.233 pbbhub3-2 pbbanshub
+- pb_sv_uconadd 1 66.55.152.234 pbbhub3-3 pbbanshub
+- pb_sv_AutoUpdBan 1
+- pb_sv_task 0 7200 pb_sv_ver
+- pb_sv_task 0 86400 pb_sv_update
+
+- pb_sv_writecfg
+- pb_sv_writecfg pbucon.use
+- pb_sv_restart
