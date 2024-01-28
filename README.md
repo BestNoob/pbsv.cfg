@@ -62,7 +62,7 @@ now your server should be correctly listed for the PB streaming, and the setting
 
 > [!NOTE]
 > ### Special info for LINUX Servers: ###
-On Linux servers you have to do the same steps but **additionally copy your PunkBuster folder to "/cod4server/.callofduty4/pb/"**
+On Linux servers you have to do the same steps but **additionally copy the content of your pb (PunkBuster) folder to "/cod4server/.callofduty4/pb/"**
 If you dont set basepath and homepath it is creating a hidden folder (instead of the Windows AppData) but this folder is missing the needed pb files.
 LINUX Servers need all the Windows (.dll) + Linux (.so) files inside the pb folder. (gamename_win32.zip & gamename_linux.zip)
 
