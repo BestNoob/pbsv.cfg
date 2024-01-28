@@ -15,7 +15,7 @@ Following games using PB and can be protected with actual Cheat detection signat
 Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers.
 
 > [!NOTE]
-> Your SERVER & Client need latest pb files inside pb folder - Auto Update should work for actual supported games like BF3 and BF4, if not download them manually
+> Your SERVER & Client need latest pb files inside pb folder - Auto Update should work for actual supported games like BF3 and BF4. If not; download & update them manually:
 > - Supported Games: https://evenbalance.com/pbsetup.php
 > - Legacy Games https://community.pbbans.com/files/category/7-legacy-punkbuster-files/
 > - Mirror: https://github.com/BestNoob/PunkBusterFiles
@@ -57,14 +57,14 @@ Red Orchestra 2~~
 - pb_sv_writecfg pbucon.use
 - pb_sv_restart (wait 30 seconds until pb has been restarted)
 
-now your server should be correctly listed for the PB streaming, and the settings hould apply. After this you can re-add the lines of my server.cfg to the server.cfg and pbucon.use
+now your server should be correctly listed for the PB streaming, and the settings should apply. After this you can re-add the lines of my server.cfg to the server.cfg and pbucon.use
 (strg+a, strg+c, strg+v - copy and paste)
 
 > [!NOTE]
 > ### Special info for LINUX Servers: ###
 On Linux servers you have to do the same steps but **additionally copy your PunkBuster folder to "/cod4server/.callofduty4/pb/"**
 If you dont set basepath and homepath it is creating a hidden folder (instead of the Windows AppData) but this folder is missing the needed pb files.
-LINUX Servers need all the Windows (.dll) + Linux (.so) files inside the pb folder.
+LINUX Servers need all the Windows (.dll) + Linux (.so) files inside the pb folder. (gamename_win32.zip & gamename_linux.zip)
 
 - pb_sv_writecfg
 - pb_sv_writecfg pbucon.use
