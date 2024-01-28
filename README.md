@@ -14,11 +14,11 @@ Here you can find some Guides https://www.pbbans.com/information-center.html
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
 Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers.
 
-> [!INFO]
+> [!NOTE]
 > Your SERVER & Client need latest pb files inside pb folder - Auto Update should work for actual supported games like BF3 and BF4, if not download them manually
-> Supported Games: https://evenbalance.com/pbsetup.php
-> Legacy Games https://community.pbbans.com/files/category/7-legacy-punkbuster-files/
-> Mirror: https://github.com/BestNoob/PunkBusterFiles
+> - Supported Games: https://evenbalance.com/pbsetup.php
+> - Legacy Games https://community.pbbans.com/files/category/7-legacy-punkbuster-files/
+> - Mirror: https://github.com/BestNoob/PunkBusterFiles
 
 
 > [!IMPORTANT]
