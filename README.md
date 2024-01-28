@@ -14,6 +14,12 @@ Here you can find some Guides https://www.pbbans.com/information-center.html
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
 Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers.
 
+> [!INFO]
+> Your SERVER & Client need latest pb files inside pb folder - Auto Update should work for actual supported games like BF3 and BF4, if not download them manually
+> Supported Games: https://evenbalance.com/pbsetup.php
+> Legacy Games https://community.pbbans.com/files/category/7-legacy-punkbuster-files/
+> Mirror: https://github.com/BestNoob/PunkBusterFiles
+
 
 > [!IMPORTANT]
 > Remember that you always have to register on their website to use their service for your servers.
@@ -58,6 +64,7 @@ now your server should be correctly listed for the PB streaming, and the setting
 > ### Special info for LINUX Servers: ###
 On Linux servers you have to do the same steps but **additionally copy your PunkBuster folder to "/cod4server/.callofduty4/pb/"**
 If you dont set basepath and homepath it is creating a hidden folder (instead of the Windows AppData) but this folder is missing the needed pb files.
+LINUX Servers need all the Windows (.dll) + Linux (.so) files inside the pb folder.
 
 - pb_sv_writecfg
 - pb_sv_writecfg pbucon.use
