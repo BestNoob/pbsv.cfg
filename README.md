@@ -84,6 +84,7 @@ You can also add those lines via gameserverconsole to your existing server.cfg i
 - pb_sv_writecfg pbucon.use
 - pb_sv_restart
 
-> [!NOTE] Update NOTES: At August 2024 PBBans HUB has changed to:
+> [!NOTE]
+> ### Update Info: At August 2024 PBBans HUB has changed to: ###
 > - pb_sv_uconadd 1 "38.111.114.231" "pbbhub4-1" "pbbanshub"
 > - pb_sv_uconadd 1 "38.111.114.249" "pbbhub4-2" "pbbanshub"
