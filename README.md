@@ -26,12 +26,11 @@ Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.
 
 
 PBB = PBBans https://www.pbbans.com
-America's Army Proving Grounds, ~~America's Army 4~~, ~~Battlefield 1942~~, Battlefield 2, ~~Battlefield 2142~~, Battlefield 3, Battlefield 4, Battlefield Bad Company 2, Battlefield Hardline, Call of Duty, Call of Duty 2, Call of Duty 4,
-Call of Duty United Offensive, Call of Duty 5 World at War, Enemy Territory, ~~Medal of Honor~~, ~~Medal of Honor Warfighter~~, ~~Quake Wars~~, Red Orchestra 2, Return to Castle Wolfenstein
+AAPG - America's Army Proving Grounds, ~~America's Army 4~~, ~~Battlefield 1942~~, BF2 - Battlefield 2, ~~Battlefield 2142~~, BF3 - Battlefield 3, BF4 - Battlefield 4, ~~Battlefield Bad Company 2~~, BFH - Battlefield Hardline, CoD - Call of Duty, CoD2 - Call of Duty 2, CoD4 - Call of Duty 4, CoD:UO - Call of Duty United Offensive, CoDWaW - Call of Duty 5 World at War, ET - Enemy Territory, ~~Medal of Honor~~, ~~Medal of Honor Warfighter~~, ~~Quake Wars~~, HOS - Red Orchestra 2, RtCW - Return to Castle Wolfenstein
 
 
 ACI = Anti Cheat Inc. http://www.anticheatinc.net
-America's Army Proving Grounds, America's Army 3, Battlefield 3, Battlefield Bad Company 2, Battlefield 4, Battlefield Hardline, Medal of Honor Warfighter
+AAPG - America's Army Proving Grounds, ~~America's Army 3~~, BF3 - Battlefield 3, ~~Battlefield Bad Company 2~~, BF4 - Battlefield 4, BFH - Battlefield Hardline, ~~Medal of Honor Warfighter~~
 
 
 ~~GGC = Together Against Cheaters (Gemeinsam Gegen Cheater) https://www.ggc-stream.net/
