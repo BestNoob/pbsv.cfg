@@ -12,7 +12,7 @@ You can edit settings as you wish, only the sky's the limit. But be aware that t
 Here you can find some Guides https://www.pbbans.com/information-center.html
 
 Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
-Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers.
+Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers and the BF Agency Plugin https://myrcon.net/files/file/37-battlefield-agency/ for BF3, BF4 and BFH.
 
 > [!NOTE]
 > Your SERVER & Client need latest pb files inside pb folder - Auto Update should work for actual supported games like BF3 and BF4. If not; download & update them manually:
