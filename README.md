@@ -70,11 +70,13 @@ And remember to check .cfg File for Unix & UTF8, if its Windows, ANSI and BOM it
 - pb_sv_writecfg pbucon.use
 - pb_sv_restart (wait 30 seconds until pb has been restarted)
 
-You can also add those lines via gameserverconsole to your existing server.cfg if you dont want to use mine:
-If youre not able to use the console (Linux) you can enable PunkBuster Server WebTool by using this lines inside pbsv.cfg (or pbucon.use, pbsvuser.cfg) but DISABLE it after you have setup - for security reasons:
-pb_sv_HttpPort 28000 //[Port - any open port like to connect via browser]
-pb_sv_HttpAddr "11.22.333.44" //[External IP Address of your server]
-pb_sv_HttpKey "URPASSWRD" //[Web Key - you have to set as password]
+You can also add those lines via gameserverconsole to your existing server.cfg if you dont want to use mine.<br>
+If youre not able to use the console (Linux) you can enable PunkBuster Server WebTool by using this lines inside pbsv.cfg (or pbucon.use, pbsvuser.cfg) but **DISABLE it after you have setup - for security reasons**:<br>  
+
+pb_sv_HttpPort 28000 //[Port - any open port like to connect via browser]  
+pb_sv_HttpAddr "11.22.333.44" //[External IP Address of your server]  
+pb_sv_HttpKey "URPASSWRD" //[Web Key - you have to set as password]  
+<br>
 
 - pb_sv_usessionlimit 10
 - pb_sv_uconadd 1 66.55.152.232 pbbhub3-1 pbbanshub
