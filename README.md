@@ -11,7 +11,7 @@ You can edit settings as you wish, only the sky's the limit. But be aware that t
 
 Here you can find some Guides https://www.pbbans.com/information-center.html
 
-Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, GGCStream, ACI streaming services.
+Following games using PB and can be protected with actual Cheat detection signatures by using PBBans, ~~GGCStream~~, ACI streaming services.
 Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.com/plugin to protect your Battlefield 4 Servers and the BF Agency Plugin https://myrcon.net/files/file/37-battlefield-agency/ for BF3, BF4 and BFH.
 
 > [!NOTE]
@@ -26,7 +26,7 @@ Also Procon https://myrcon.net/ can be used with the BF4DB Plugin https://bf4db.
 
 
 PBB = PBBans https://www.pbbans.com
-AAPG - America's Army Proving Grounds, ~~America's Army 4~~, ~~Battlefield 1942~~, BF2 - Battlefield 2, ~~Battlefield 2142~~, BF3 - Battlefield 3, BF4 - Battlefield 4, ~~Battlefield Bad Company 2~~, BFH - Battlefield Hardline, CoD - Call of Duty, CoD2 - Call of Duty 2, CoD4 - Call of Duty 4, CoD:UO - Call of Duty United Offensive, CoDWaW - Call of Duty 5 World at War, ET - Enemy Territory, ~~Medal of Honor~~, ~~Medal of Honor Warfighter~~, ~~Quake Wars~~, HOS - Red Orchestra 2, RtCW - Return to Castle Wolfenstein
+AAPG - America's Army Proving Grounds, ~~America's Army 4~~, ~~Battlefield 1942~~, BF2 - Battlefield 2, ~~Battlefield 2142~~, BF3 - Battlefield 3, BF4 - Battlefield 4, Battlefield Bad Company 2, BFH - Battlefield Hardline, CoD - Call of Duty, CoD2 - Call of Duty 2, CoD4 - Call of Duty 4, CoD:UO - Call of Duty United Offensive, CoDWaW - Call of Duty 5 World at War, ET - Enemy Territory, ~~Medal of Honor~~, ~~Medal of Honor Warfighter~~, ~~Quake Wars~~, HOS - Red Orchestra 2, RtCW - Return to Castle Wolfenstein
 
 
 ACI = Anti Cheat Inc. http://www.anticheatinc.net
